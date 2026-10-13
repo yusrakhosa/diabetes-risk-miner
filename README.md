@@ -4,7 +4,7 @@
 
 An end-to-end diabetes risk-mining pipeline using the **CDC Diabetes Health Indicators Dataset (UCI ID: 891)**. It identifies important lifestyle and clinical risk factors, discovers patient health-profile clusters, and predicts diabetes-related health risks. Results will be presented through an interactive Streamlit dashboard.
 
-🔗 **GitHub repository:** [Diabetes Risk Miner](https://github.com/yusrakhosa/diabetes-risk-miner) · 📓 **Main notebook:** `notebooks/A1_load_and_overview.ipynb` · 🚀 **Live app:** [Add Streamlit link]
+🔗 **GitHub repository:** [Diabetes Risk Miner](https://github.com/yusrakhosa/diabetes-risk-miner) · 📓 **Main notebook:** `notebooks/A1_load_and_overview.ipynb` · 🚀 **Live app:** https://diabetes-risk-miner.streamlit.app/
 
 ---
 
