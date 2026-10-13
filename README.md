@@ -3,6 +3,7 @@
 
 An end-to-end data mining and machine learning pipeline using the **CDC Diabetes Health Indicators Dataset** (UCI ID: 891). This project identifies key clinical and lifestyle risk factors, uncovers patient comorbidity clusters, and predicts secondary health complications. Results are served through an interactive Streamlit dashboard.
 
+🔗 **Live app:** [https://diabetes-risk-miner.streamlit.app](https://diabetes-risk-miner.streamlit.app) · 📓 **Main notebook:** `notebooks/A1_load_and_overview.ipynb`
 
 ---
 
